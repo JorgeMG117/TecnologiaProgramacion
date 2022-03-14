@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "stdexcept": "cpp",
+        "iostream": "cpp",
+        "memory": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp"
+    }
+}

@@ -1,0 +1,10 @@
+#pragma once
+#include "general.h"
+#include "almacen.h"
+#include "cargaGeneral.h"
+#include "carga.h"
+#include "contenedor.h"
+#include "camion.h"
+#include "producto.h"
+#include "serVivo.h"
+#include "toxico.h"
